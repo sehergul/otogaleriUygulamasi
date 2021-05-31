@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618701056 source:c:\users\q\desktop\cydbl-otogaleri\main.cpp
+	<iostream>
+	<fstream>
+
